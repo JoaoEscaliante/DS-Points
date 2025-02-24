@@ -1,3 +1,8 @@
+
+# Nessa estamos criando pontos acumulados dentro do momento da base ativa de 21 dias para trás
+# Fazemos uns cortes para 14, 7 dias
+# 
+
 WITH tb_pontos_d AS (
 
     SELECT idCustomer,
